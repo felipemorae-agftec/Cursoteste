@@ -1,6 +1,3 @@
-# Cursoteste
-### Teste commit 2
-## h2fff
+git status
 
-## f2
-dsdsds
+novo teste 
