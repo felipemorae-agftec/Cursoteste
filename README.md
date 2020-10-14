@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cursoteste
 
 <<<<<<< HEAD
@@ -7,4 +8,9 @@
 >>>>>>> felipe
 =======
 dsdsds
+>>>>>>> felipe
+=======
+git status
+
+novo teste 
 >>>>>>> felipe
