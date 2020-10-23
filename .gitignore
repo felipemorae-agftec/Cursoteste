@@ -1,5 +1,6 @@
 node_modules
-.texte.html
+texte.html
+*.txt
 # Logs
 logs
 *.log
