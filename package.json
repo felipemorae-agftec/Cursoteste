@@ -1,24 +1,25 @@
 {
-  "name": "curso",
-  "version": "1.0.0",
-  "description": "<<<<<<< HEAD",
-  "main": "index.js",
-  "dependencies": {
-    "bootstrap": "^4.5.3"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/felipemorae-agftec/Cursoteste.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/felipemorae-agftec/Cursoteste/issues"
-  },
-  "homepage": "https://github.com/felipemorae-agftec/Cursoteste#readme"
+    "name": "curso",
+    "version": "1.0.0",
+    "description": "<<<<<<< HEAD",
+    "main": "index.js",
+    "dependencies": {
+        "bootstrap": "^4.5.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/felipemorae-agftec/Cursoteste.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/felipemorae-agftec/Cursoteste/issues"
+    },
+    "homepage": "https://github.com/felipemorae-agftec/Cursoteste#readme"
 }
