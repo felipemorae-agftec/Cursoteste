@@ -1,6 +1,3 @@
-node_modules
-src/texte.html
-src/texte2.html
 *.txt
 # Logs
 logs
