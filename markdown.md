@@ -30,11 +30,32 @@ teste ola `teste` segue o ``link(`teste`)``
 
 ---
 
+```html
+<html>
+    <body>
+        <h1></h1>
+    </body>
+</html>
 ```
-html
-body
+```css
+    body{
+        color:000;
+    }
+```
+<!-- tabelas -->
+
+## Tabelas
+|Nome| nomes|20|
+| - | :-: | :-: |
+|Nome| nomes|20|
+|Nome| nomes|20|
+
+<!--Links   -->
+## img
+[textolink](wwww.tratordecompra "trator ")
 
 
+![alt testo](https://tratordecompras.com.br/img/logo.png)
 
 
 
